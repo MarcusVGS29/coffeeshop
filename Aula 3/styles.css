@@ -1,0 +1,8 @@
+.background{
+    background-image: url(./pdfImages/background.jpeg);
+    background-size: contain;
+}
+
+.logo{
+    background-color: blue;
+}
